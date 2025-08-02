@@ -92,5 +92,5 @@ The journey from hobby project to commercial product isn't easy, but it's necess
 
 ---
 
-**Built with ❤️ in Germany**  
+**Built with ❤️ in Germanania**  
 *Making web development faster, safer, and more enjoyable.*
